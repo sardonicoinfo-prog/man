@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://sardonicoinfo-prog.github.io/man/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in sardonicoinfo-prog/man project"
+        ]
+    },
+    "items": []
+}
